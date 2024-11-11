@@ -1,5 +1,5 @@
 # RWBY
-# MOVED TO https://dev.azure.com/ChrisTides11/rwby
+# MOVED TO https://github.com/christides11/RwbyVytalVersus
 
 ## Overview
 **RWBY** is a multiplayer hack and slash fangame based on Rooster Teeth's animated series [RWBY](https://en.wikipedia.org/wiki/RWBY).
